@@ -1,0 +1,338 @@
+[
+     {
+          "dorsal": "1",
+          "nombre": "Lucian Stefan",
+          "apellidos": "Maspoch",
+          "telefono": "659756480",
+          "direccion": {
+               "calle": "Calle De Vega De Pas",
+               "numero": "397",
+               "piso": "5",
+               "letra": "E"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "2",
+          "nombre": "Paulo Antonio",
+          "apellidos": "Bartomeus",
+          "telefono": "694486397",
+          "direccion": {
+               "calle": "Calle De Garcia Miranda",
+               "numero": "163",
+               "piso": "4",
+               "letra": "A"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Defensa"
+     },
+     {
+          "dorsal": "3",
+          "nombre": "Haiping",
+          "apellidos": "Bragulat",
+          "telefono": "642052797",
+          "direccion": {
+               "calle": "Calle De Sepulveda",
+               "numero": "615",
+               "piso": "5",
+               "letra": "B"
+          },
+          "posicion_principal": "Centrocampista",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "4",
+          "nombre": "Richard Fernando",
+          "apellidos": "Agui",
+          "telefono": "665187149",
+          "direccion": {
+               "calle": "Calle De Jose Fentanes",
+               "numero": "201",
+               "piso": "1",
+               "letra": "F"
+          },
+          "posicion_principal": "Centrocampista",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "5",
+          "nombre": "Florina Maria",
+          "apellidos": "Dragu",
+          "telefono": "653810793",
+          "direccion": {
+               "calle": "Calle De Regina Alvarez",
+               "numero": "609",
+               "piso": "4",
+               "letra": "E"
+          },
+          "posicion_principal": "Centrocampista",
+          "posicion_alternativa": "Portero"
+     },
+     {
+          "dorsal": "6",
+          "nombre": "Christian Paul",
+          "apellidos": "Conill",
+          "telefono": "623849487",
+          "direccion": {
+               "calle": "Calle De Amurrio",
+               "numero": "487",
+               "piso": "3",
+               "letra": "E"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Defensa"
+     },
+     {
+          "dorsal": "7",
+          "nombre": "Xiaolei",
+          "apellidos": "Jo",
+          "telefono": "610408511",
+          "direccion": {
+               "calle": "Calle De La Falua",
+               "numero": "390",
+               "piso": "5",
+               "letra": "B"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "8",
+          "nombre": "Marta Luz",
+          "apellidos": "Bretal",
+          "telefono": "614391877",
+          "direccion": {
+               "calle": "Avenida De La Albufera",
+               "numero": "631",
+               "piso": "4",
+               "letra": "B"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "9",
+          "nombre": "Silvia Margarita",
+          "apellidos": "De La Cuesta",
+          "telefono": "641456559",
+          "direccion": {
+               "calle": "Calle De Mirallos",
+               "numero": "721",
+               "piso": "4",
+               "letra": "D"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "10",
+          "nombre": "Marien",
+          "apellidos": "Kovalenko",
+          "telefono": "678525850",
+          "direccion": {
+               "calle": "Calle De Playa De La Concha",
+               "numero": "706",
+               "piso": "5",
+               "letra": "A"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "11",
+          "nombre": "Walter Alberto",
+          "apellidos": "Crehuet",
+          "telefono": "612100782",
+          "direccion": {
+               "calle": "Calle De Vicenta Pachon",
+               "numero": "580",
+               "piso": "1",
+               "letra": "B"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Portero"
+     },
+     {
+          "dorsal": "12",
+          "nombre": "Joan Ferran",
+          "apellidos": "Craig",
+          "telefono": "617103121",
+          "direccion": {
+               "calle": "Calle Del Kripton",
+               "numero": "688",
+               "piso": "5",
+               "letra": "D"
+          },
+          "posicion_principal": "Centrocampista",
+          "posicion_alternativa": "Portero"
+     },
+     {
+          "dorsal": "13",
+          "nombre": "Carlos Isidoro",
+          "apellidos": "Ubierna",
+          "telefono": "693476814",
+          "direccion": {
+               "calle": "Calle De Jose Maria Cavero",
+               "numero": "174",
+               "piso": "4",
+               "letra": "A"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Defensa"
+     },
+     {
+          "dorsal": "14",
+          "nombre": "Paulo Cesar",
+          "apellidos": "Konate",
+          "telefono": "647857307",
+          "direccion": {
+               "calle": "Calle De La Duquesa De Castrejon",
+               "numero": "228",
+               "piso": "1",
+               "letra": "F"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "15",
+          "nombre": "Eutiquiano",
+          "apellidos": "Abdala",
+          "telefono": "667252252",
+          "direccion": {
+               "calle": "Calle Del Nuncio",
+               "numero": "239",
+               "piso": "4",
+               "letra": "F"
+          },
+          "posicion_principal": "Defensa",
+          "posicion_alternativa": "Defensa"
+     },
+     {
+          "dorsal": "16",
+          "nombre": "Ramon Francisco",
+          "apellidos": "Cosentino",
+          "telefono": "663377012",
+          "direccion": {
+               "calle": "Calle De Los Carmelitas",
+               "numero": "41",
+               "piso": "3",
+               "letra": "G"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "17",
+          "nombre": "Fernando",
+          "apellidos": "El Hachimi",
+          "telefono": "653687509",
+          "direccion": {
+               "calle": "Calle De Villalcon",
+               "numero": "497",
+               "piso": "2",
+               "letra": "G"
+          },
+          "posicion_principal": "Defensa",
+          "posicion_alternativa": "Defensa"
+     },
+     {
+          "dorsal": "18",
+          "nombre": "Cristina Mercedes",
+          "apellidos": "Carbia",
+          "telefono": "693779954",
+          "direccion": {
+               "calle": "Calle De Barcelona",
+               "numero": "800",
+               "piso": "2",
+               "letra": "E"
+          },
+          "posicion_principal": "Defensa",
+          "posicion_alternativa": "Defensa"
+     },
+     {
+          "dorsal": "19",
+          "nombre": "Pamela Estefania",
+          "apellidos": "Astarloa",
+          "telefono": "619656051",
+          "direccion": {
+               "calle": "Calle Del Aguila",
+               "numero": "242",
+               "piso": "5",
+               "letra": "D"
+          },
+          "posicion_principal": "Defensa",
+          "posicion_alternativa": "Portero"
+     },
+     {
+          "dorsal": "20",
+          "nombre": "Miloudi",
+          "apellidos": "Bohoyo",
+          "telefono": "665115976",
+          "direccion": {
+               "calle": "Calle De Benamargosa",
+               "numero": "444",
+               "piso": "2",
+               "letra": "F"
+          },
+          "posicion_principal": "Defensa",
+          "posicion_alternativa": "Defensa"
+     },
+     {
+          "dorsal": "21",
+          "nombre": "Aleksandar Dimitrov",
+          "apellidos": "Farmer",
+          "telefono": "627338466",
+          "direccion": {
+               "calle": "Calle Del Espiritu Santo",
+               "numero": "784",
+               "piso": "4",
+               "letra": "A"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "22",
+          "nombre": "Victoria Olga",
+          "apellidos": "Peinador",
+          "telefono": "608542060",
+          "direccion": {
+               "calle": "Calle De Valentin Llaguno",
+               "numero": "708",
+               "piso": "1",
+               "letra": "F"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "23",
+          "nombre": "Ezequiel Nicolas",
+          "apellidos": "Albujar",
+          "telefono": "632227585",
+          "direccion": {
+               "calle": "Calle De La Isla De Java",
+               "numero": "920",
+               "piso": "4",
+               "letra": "G"
+          },
+          "posicion_principal": "Centrocampista",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "24",
+          "nombre": "Dara Maria",
+          "apellidos": "Lopez Davalillo",
+          "telefono": "638159076",
+          "direccion": {
+               "calle": "Calle De Atocha",
+               "numero": "563",
+               "piso": "2",
+               "letra": "G"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Delantero"
+     }
+]
