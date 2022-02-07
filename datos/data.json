@@ -1,0 +1,352 @@
+[
+     {
+          "dorsal": "1",
+          "nombre": "Dan Ioan",
+          "apellidos": "Bartomeus",
+          "telefono": "616230052",
+          "direccion": {
+               "calle": "Calle De Vara De Rey",
+               "numero": "231",
+               "piso": "3",
+               "letra": "B"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Portero"
+     },
+     {
+          "dorsal": "2",
+          "nombre": "Constantin Iulian",
+          "apellidos": "Talha",
+          "telefono": "641053041",
+          "direccion": {
+               "calle": "Calle De Las Suertes De La Villa",
+               "numero": "282",
+               "piso": "2",
+               "letra": "C"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "3",
+          "nombre": "Miguel Sebastian",
+          "apellidos": "Oliveres",
+          "telefono": "670504267",
+          "direccion": {
+               "calle": "Calle De Bugedo",
+               "numero": "899",
+               "piso": "1",
+               "letra": "E"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "4",
+          "nombre": "Marcos Alexis",
+          "apellidos": "De La Cruz",
+          "telefono": "657277403",
+          "direccion": {
+               "calle": "Calle De Loja",
+               "numero": "175",
+               "piso": "4",
+               "letra": "F"
+          },
+          "posicion_principal": "Defensa",
+          "posicion_alternativa": "Portero"
+     },
+     {
+          "dorsal": "5",
+          "nombre": "Andrejs",
+          "apellidos": "Llaca",
+          "telefono": "638409080",
+          "direccion": {
+               "calle": "Calle De Elizondo",
+               "numero": "235",
+               "piso": "3",
+               "letra": "E"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "6",
+          "nombre": "Britt Marie",
+          "apellidos": "Cuervo",
+          "telefono": "609477701",
+          "direccion": {
+               "calle": "Calle De La Via Limite",
+               "numero": "452",
+               "piso": "1",
+               "letra": "A"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "7",
+          "nombre": "Vaitiare",
+          "apellidos": "Errazkin",
+          "telefono": "672675969",
+          "direccion": {
+               "calle": "Calle De Lumbreras",
+               "numero": "956",
+               "piso": "3",
+               "letra": "D"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "8",
+          "nombre": "Michael Alexander",
+          "apellidos": "Ordinas",
+          "telefono": "698881740",
+          "direccion": {
+               "calle": "Calle De Prado Merinero",
+               "numero": "474",
+               "piso": "2",
+               "letra": "C"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "9",
+          "nombre": "Antonio Nicola",
+          "apellidos": "Rabuñal",
+          "telefono": "617176873",
+          "direccion": {
+               "calle": "Calle De Montalban",
+               "numero": "8",
+               "piso": "2",
+               "letra": "E"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Defensa"
+     },
+     {
+          "dorsal": "10",
+          "nombre": "Muhammad Usman",
+          "apellidos": "Cerreda",
+          "telefono": "651191048",
+          "direccion": {
+               "calle": "Calle De Salou",
+               "numero": "132",
+               "piso": "2",
+               "letra": "F"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "11",
+          "nombre": "Jayson",
+          "apellidos": "Witte",
+          "telefono": "623824321",
+          "direccion": {
+               "calle": "Calle De Villaamil",
+               "numero": "470",
+               "piso": "2",
+               "letra": "D"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "12",
+          "nombre": "Sibel",
+          "apellidos": "De La Hoz",
+          "telefono": "601048083",
+          "direccion": {
+               "calle": "Calle De La Rabida",
+               "numero": "137",
+               "piso": "2",
+               "letra": "F"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "13",
+          "nombre": "Maria Carmelita",
+          "apellidos": "Richards",
+          "telefono": "694394428",
+          "direccion": {
+               "calle": "Calle De La Latina",
+               "numero": "162",
+               "piso": "4",
+               "letra": "E"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "14",
+          "nombre": "Nashira",
+          "apellidos": "Prudencio",
+          "telefono": "680566517",
+          "direccion": {
+               "calle": "Calle De El Tiemblo",
+               "numero": "682",
+               "piso": "5",
+               "letra": "F"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "15",
+          "nombre": "Rosalia Mercedes",
+          "apellidos": "Negreira",
+          "telefono": "648361120",
+          "direccion": {
+               "calle": "Calle De Ramiro Molina",
+               "numero": "828",
+               "piso": "4",
+               "letra": "E"
+          },
+          "posicion_principal": "Defensa",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "16",
+          "nombre": "Sofia Magdalena",
+          "apellidos": "Calvino",
+          "telefono": "677787721",
+          "direccion": {
+               "calle": "Calle De Las Navas De Tolosa",
+               "numero": "696",
+               "piso": "1",
+               "letra": "A"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "17",
+          "nombre": "Mohammed Rida",
+          "apellidos": "Trapiello",
+          "telefono": "640624466",
+          "direccion": {
+               "calle": "Calle  Via Carpetana",
+               "numero": "263",
+               "piso": "3",
+               "letra": "E"
+          },
+          "posicion_principal": "Defensa",
+          "posicion_alternativa": "Defensa"
+     },
+     {
+          "dorsal": "18",
+          "nombre": "Teresa Antonia",
+          "apellidos": "El Ahmadi",
+          "telefono": "693452738",
+          "direccion": {
+               "calle": "Calle De Valentin Beato",
+               "numero": "280",
+               "piso": "2",
+               "letra": "F"
+          },
+          "posicion_principal": "Defensa",
+          "posicion_alternativa": "Defensa"
+     },
+     {
+          "dorsal": "19",
+          "nombre": "Karina Roxana",
+          "apellidos": "Santacruz",
+          "telefono": "655227129",
+          "direccion": {
+               "calle": "Calle De Francisco Vivancos",
+               "numero": "52",
+               "piso": "1",
+               "letra": "E"
+          },
+          "posicion_principal": "Centrocampista",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "20",
+          "nombre": "Xinxin",
+          "apellidos": "Pinargote",
+          "telefono": "603221361",
+          "direccion": {
+               "calle": "Calle De Portalena",
+               "numero": "183",
+               "piso": "4",
+               "letra": "C"
+          },
+          "posicion_principal": "Defensa",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "21",
+          "nombre": "Federico Ricardo",
+          "apellidos": "Castedo",
+          "telefono": "646786939",
+          "direccion": {
+               "calle": "Calle De Valdecanillas",
+               "numero": "201",
+               "piso": "4",
+               "letra": "E"
+          },
+          "posicion_principal": "Defensa",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "22",
+          "nombre": "Justyna Anna",
+          "apellidos": "Albela",
+          "telefono": "696927914",
+          "direccion": {
+               "calle": "Calle De Freud",
+               "numero": "559",
+               "piso": "3",
+               "letra": "F"
+          },
+          "posicion_principal": "Centrocampista",
+          "posicion_alternativa": "Delantero"
+     },
+     {
+          "dorsal": "23",
+          "nombre": "Moises Jesus",
+          "apellidos": "Cumbicus",
+          "telefono": "674206834",
+          "direccion": {
+               "calle": "Avenida De El Ferrol",
+               "numero": "540",
+               "piso": "1",
+               "letra": "C"
+          },
+          "posicion_principal": "Portero",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "24",
+          "nombre": "Domingo Eduardo",
+          "apellidos": "Salter",
+          "telefono": "606256848",
+          "direccion": {
+               "calle": "Calle De Sandoval",
+               "numero": "819",
+               "piso": "5",
+               "letra": "A"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Centrocampista"
+     },
+     {
+          "dorsal": "25",
+          "nombre": "Angel Rogelio",
+          "apellidos": "Brinkmann",
+          "telefono": "683102650",
+          "direccion": {
+               "calle": "Calle De Zagreb",
+               "numero": "102",
+               "piso": "5",
+               "letra": "G"
+          },
+          "posicion_principal": "Delantero",
+          "posicion_alternativa": "Centrocampista"
+     }
+]
