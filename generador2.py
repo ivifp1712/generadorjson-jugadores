@@ -1,12 +1,10 @@
-
-
-from base64 import encode
 import json, csv
 from random import randint
 import string
 def listAlphabet():
   return list(string.ascii_uppercase)
 
+clientes = int(input("¿Cuantos usuarios quieres crear?"))
 
 d1 = open("datos/hombres.csv", "r", encoding="UTF-8")
 nombres = []
@@ -64,7 +62,7 @@ for row in reader:
 data = []
 i = 1
 posiciones = ["Portero", "Defensa", "Centrocampista", "Delantero"]
-while i < 25:
+while i < (clientes+1):
     data.append({
         'dorsal': f'{i}',
         'nombre': f'{nombres[randint(0,len(nombres))]}',
