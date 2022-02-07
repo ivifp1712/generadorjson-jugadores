@@ -6,4 +6,4 @@ Contienen diferentes rutas en caso de que no funcione correctamente.
 
 La funcionalidad del programa es generar un JSON con Nombres, Apellidos y Direcciones aleatorias para generar identidades a futbolistas. 
 
-Esta limitado a 25 predeterminadamente pero es posible generar una cantidad muy superior.
+Esta limitado a 25 predeterminadamente pero es posible generar una cantidad muy superior con un sencillo ajuste en bucle while.
